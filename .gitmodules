@@ -1,0 +1,24 @@
+[submodule "any2any-bot"]
+	path = any2any-bot
+	url = https://github.com/saidgadjiev/any2any-bot
+[submodule "converter"]
+	path = converter
+	url = https://github.com/saidgadjiev/converter
+[submodule "renamer"]
+	path = renamer
+	url = https://github.com/saidgadjiev/renamer
+[submodule "unzipper"]
+	path = unzipper
+	url = https://github.com/saidgadjiev/unzipper
+[submodule "smart-payment-bot"]
+	path = smart-payment-bot
+	url = https://github.com/saidgadjiev/smart-payment-bot
+[submodule "smart-bots-web"]
+	path = smart-bots-web
+	url = https://github.com/saidgadjiev/smart-bots-web
+[submodule "smart-bot-commons"]
+	path = smart-bot-commons
+	url = https://github.com/saidgadjiev/smart-bot-commons
+[submodule "smart-work-bot-commons"]
+	path = smart-work-bot-commons
+	url = https://github.com/saidgadjiev/smart-work-bot-commons
